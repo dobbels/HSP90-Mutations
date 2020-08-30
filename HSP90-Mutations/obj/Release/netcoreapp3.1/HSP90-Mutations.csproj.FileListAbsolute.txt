@@ -1,0 +1,13 @@
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.exe
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.deps.json
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.runtimeconfig.json
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.runtimeconfig.dev.json
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.dll
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\bin\Release\netcoreapp3.1\HSP90-Mutations.pdb
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.AssemblyInfoInputs.cache
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.AssemblyInfo.cs
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.csproj.CoreCompileInputs.cache
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.dll
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.pdb
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.genruntimeconfig.cache
+C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.csprojAssemblyReference.cache
