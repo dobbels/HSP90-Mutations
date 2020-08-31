@@ -11,7 +11,6 @@ namespace HSP90_Mutations
         static void Main(string[] args)
         {
             var originalProtein = "EEVETFAFQAEIAQLMSLIINTFY";
-
             var aminoAcids = new List<char>() { 'A', 'I', 'L', 'M', 'F', 'W', 'Y', 'V', 'S', 'T', 'N', 'Q', 'C', 'G', 'P', 'D', 'E', 'R', 'H', 'K' };
 
             var mutations = new List<string>();
@@ -76,7 +75,7 @@ namespace HSP90_Mutations
 
                     var stringBuilder = new StringBuilder();
                     var numberOfChangedDigits = 0;
-                    for (int i = 0; i < generatedProtein.Length; i++)
+                    for (var i = 0; i < generatedProtein.Length; i++)
                     {
                         if (generatedProtein[i].Equals(originalProtein[i]))
                         {
@@ -121,11 +120,6 @@ namespace HSP90_Mutations
 
             Console.WriteLine($"Number of generated mutations: {mutations.Count}");
 
-            // Example #3: Write only some strings in an array to a file.
-            // The using statement automatically flushes AND CLOSES the stream and calls
-            // IDisposable.Dispose on the stream object.
-            // NOTE: do not use FileStream for text files because it writes bytes, but StreamWriter
-            // encodes the output as text.
             var currentDirectory = Directory.GetCurrentDirectory();
             var fileName = $"mutations-max-{maxNumberOfAAsToAdapt}-AA-changes-per-mutation.txt";
             var filePath = Path.Combine(currentDirectory, fileName);
@@ -146,7 +140,7 @@ namespace HSP90_Mutations
         {
             var mutants = new List<string>();
 
-            for (int i = 0; i < generatedProtein.Length; i++)
+            for (var i = 0; i < generatedProtein.Length; i++)
             {
                 if (!generatedProtein[i].Equals(initialProtein[i]))
                 {
