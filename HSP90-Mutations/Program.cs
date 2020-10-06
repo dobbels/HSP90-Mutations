@@ -89,7 +89,7 @@ namespace HSP90_Mutations
                     }
                     Console.WriteLine(stringBuilder + $" with a total of {numberOfChangedDigits} changes");
 
-                    Console.WriteLine($"Expected format: {calculateMutantSequence(originalProtein, generatedProtein)}");
+                    Console.WriteLine($"Expected format: {CalculateMutantSequence(originalProtein, generatedProtein)}");
 
                     Console.WriteLine();
                     Console.WriteLine($"Number of mutations at the moment: {mutations.Count}");

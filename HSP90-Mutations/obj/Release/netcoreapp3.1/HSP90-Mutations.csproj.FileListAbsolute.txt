@@ -10,4 +10,3 @@ C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\ne
 C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.dll
 C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.pdb
 C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.genruntimeconfig.cache
-C:\Users\sdobbelaere\source\repos\HSP90-Mutations\HSP90-Mutations\obj\Release\netcoreapp3.1\HSP90-Mutations.csprojAssemblyReference.cache
